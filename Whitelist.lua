@@ -3,7 +3,7 @@
 
 return {
     -- Owners / Developers
-    [11925446203] = true, -- Replace with your Roblox UserID
+    [11925446203] = true, 
 
     -- Premium Members / Server Boosters
     [11931295316] = true,
