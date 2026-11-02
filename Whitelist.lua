@@ -7,5 +7,5 @@ return {
 
     -- Premium Members / Server Boosters
     [11931295316] = true, -- Example User 1
-    [112233445] = true, -- Example User 2
+    [11171847890] = true, -- Example User 2
 }
