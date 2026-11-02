@@ -6,6 +6,7 @@ return {
     [11925446203] = true, -- Replace with your Roblox UserID
 
     -- Premium Members / Server Boosters
-    [11931295316] = true, -- Example User 1
-    [11171847890] = true, -- Example User 2
+    [11931295316] = true,
+    [11171847890] = true, 
+    [11912493734] = true, 
 }
