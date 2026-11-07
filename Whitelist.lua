@@ -3,7 +3,8 @@
 
 return {
     --Life time premium users
-    [11925446203] = true, 
+    [11925446203] = true,
+    [3399673131] = true,
 
     -- Premium Members / Server Boosters
     [11931295316] = true,
@@ -23,7 +24,6 @@ return {
     [2549455630] = true,
     [1399876582] = true, 
     [11919477637] = true,
-    [3399673131] = true,
     [11919377811] = true,
     [2351802744] = true,
     [10479404959] = true,
