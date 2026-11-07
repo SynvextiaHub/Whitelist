@@ -2,7 +2,7 @@
 -- Format: [RobloxUserId] = true,
 
 return {
-    -- Owners / Developers
+    --Life time premium users
     [11925446203] = true, 
 
     -- Premium Members / Server Boosters
