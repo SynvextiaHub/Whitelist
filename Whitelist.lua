@@ -5,6 +5,7 @@ return {
     --Life time premium users
     [11925446203] = true,
     [3399673131] = true,
+    [11919377811] = true,
 
     -- Premium Members / Server Boosters
     [11931295316] = true,
