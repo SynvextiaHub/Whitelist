@@ -1,7 +1,9 @@
 -- Format: [RobloxUserId] = true,
 
+-- Format: [RobloxUserId] = true,
+
 return {
-    --Life time premium users
+    -- Lifetime Premium Users
     [11925446203] = true,
     [3399673131] = true,
     [10720258641] = true,
@@ -104,6 +106,4 @@ return {
     [1450766478] = true,
     [8866972867] = true,
     [9476014260] = true,
-
-
 }
