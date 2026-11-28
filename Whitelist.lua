@@ -30,6 +30,7 @@ return {
     [4374778429] = true, -- booster
     [4630596820] = true, -- booster
     [4694581755] = true, -- booster
+    [5369145258] = true, -- booster
     [5417188993] = true, -- booster
     [5458377336] = true, -- booster
     [5553965842] = true, -- booster
