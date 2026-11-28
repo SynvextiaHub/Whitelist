@@ -11,6 +11,7 @@ return {
     [5458377336] = true,
     [10017407143] = true,
 
+
     -- Premium Members / Server Boosters
     [11931295316] = true,
     [11171847890] = true,
@@ -119,4 +120,5 @@ return {
     [12032246548] = true,
     [11778054534] = true,
     [7762702049] = true,
+     [8143734363] = true,
 }
